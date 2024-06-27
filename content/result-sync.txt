@@ -1,0 +1,1 @@
+HelloHere is the result: Hello from first is text file, Hello from second is text file
